@@ -1,5 +1,5 @@
-#ifndef SingleLinkedList_h
-#define SingleLinkedList_h
+#ifndef SingleLinkedList_H
+#define SingleLinkedList_H
 
 typedef struct Node
 {
